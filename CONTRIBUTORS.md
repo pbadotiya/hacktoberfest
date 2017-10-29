@@ -2,10 +2,7 @@
  - Place: North Carolina, USA
  - Bio: Learning Web Dev & Design
  - GitH\
- #### Name: [Leon Todd](https://github.com/leontodd)
- - Place: Leicester, UKenoy)
- - Place: Udupi, India
- - GitHub: [Tilak-Shenoy](https://github.com/Tilak-Shenoy)
+ #### Name: [Leo
 
 #### Name: [Sam Flores](https://github.com/samflores23)
  - Place: Chicago, IL, USA
